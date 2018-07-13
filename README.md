@@ -4,4 +4,6 @@ The purpose of this project is to controller a bbq offset smoker by taking data(
 
 This is run on the arduino software: https://www.arduino.cc/en/Main/Software? version 1.8.5.
 
-You can simply copy and paste the *.ino file and run the program.
+You can simply copy and paste the *.ino file into the arduino IDE and run the program.
+
+
