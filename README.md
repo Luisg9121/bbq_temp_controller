@@ -6,4 +6,4 @@ This is run on the arduino software: https://www.arduino.cc/en/Main/Software? ve
 
 You can simply copy and paste the *.ino file into the arduino IDE and run the program.
 
-
+You can see from the screenshot, I am using a led light to simulate the fan: https://github.com/Luisg9121/bbq_temp_controller/blob/master/IMG_0143.JPG
